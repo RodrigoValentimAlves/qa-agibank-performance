@@ -1,0 +1,11 @@
+fromPort,toPort,inputName,address,city,state,zipCode,creditCardNumber,nameOnCard,rememberMe
+Boston,London,Rodrigo Qualidade,Rua das Palmeiras,Cerquilho,SP,18520554,4111111111111111,Rodrigo Qualidade,on
+Paris,Berlin,Ana Teste,Rua Central,São Paulo,SP,01000000,5555444433331111,Ana Teste,on
+Rome,Sydney,Carlos QA,Rua das Flores,Rio de Janeiro,RJ,22000000,4222222222222222,Carlos QA,on
+São Paulo,Dublin,Mariana QA,Rua Verde,Campinas,SP,13000000,4333333333333333,Mariana QA,on
+Mexico City,Cairo,João QA,Rua Azul,México City,MX,11500,4444444444444444,João QA,on
+Philadelphia,Warsaw,Fernanda QA,Rua Amarela,Philadelphia,PA,19100,4555555555555555,Fernanda QA,on
+San Diego,Buenos Aires,Lucas QA,Rua Rosa,San Diego,CA,92100,4666666666666666,Lucas QA,on
+New York,Paris,Beatriz QA,Rua Roxa,New York,NY,10001,4777777777777777,Beatriz QA,on
+Berlin,Boston,Thiago QA,Rua Cinza,Berlin,BE,10115,4888888888888888,Thiago QA,on
+Sydney,Rome,Patrícia QA,Rua Branca,Sydney,NSW,2000,4999999999999999,Patrícia QA,on
